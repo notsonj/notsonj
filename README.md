@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hello%2C+I'm+MrDuck+!;Welcome+to+my+Github+!)](https://github.com/mrduck89) 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hello%2C+I'm+SonJ+!;Welcome+to+my+Github+!)](https://github.com/notsonj) 
 
 🏅 **My Information:**
 - 🔭 I’m currently working on  **PixelBot** (Discord Bot)
@@ -8,9 +8,9 @@
 
 # Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrduck89&theme=radical"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsonj&theme=radical"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrduck89&show_icons=true&theme=radical"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=notsonj&show_icons=true&theme=radical"></a>
 
 # All the programming that I learned
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
