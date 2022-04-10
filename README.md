@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=notsonj&show_icons=true&theme=radical"></a>
 
-https://raw.githubusercontent.com/xFGhoul/xFGhoul/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/xFGhoul/xFGhoul/output/github-contribution-grid-snake.svg"></a>
 
 # All the programming that I learned
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
